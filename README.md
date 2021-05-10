@@ -6,7 +6,7 @@ Consiste em uma aplicação feita em Vue.Js e Node.js no back-end. O usuário fa
 
 Demonstração
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://i.imgur.com/e7101UY.gif)
 
 
 
