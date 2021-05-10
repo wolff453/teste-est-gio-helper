@@ -1,5 +1,14 @@
 # Teste para estágio na HELPER
 
+# Sobre o Projeto
+ 
+Consiste em uma aplicação feita em Vue.Js e Node.js no back-end. O usuário faz seu cadastro e , ao se cadastrar, ele é redirecionado para a tela de listagem dos dados, onde o mesmo pode fazer a edição(deletar) qualquer item da lista conforme pedido no teste
+
+## Telas
+
+Cadastro:
+
+https://i.imgur.com/nyZdjPY.png
 
 
 
