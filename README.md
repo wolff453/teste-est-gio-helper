@@ -4,6 +4,15 @@
  
 Consiste em uma aplicação feita em Vue.Js e Node.js no back-end. O usuário faz seu cadastro e , ao se cadastrar, ele é redirecionado para a tela de listagem dos dados, onde o mesmo pode fazer a edição(deletar) qualquer item da lista conforme pedido no teste
 
+Demonstração
+
+![alt text](https://i.imgur.com/e7101UY.gifv)
+
+No youtube:
+
+
+
+
 ## Telas
 
 Cadastro:
@@ -30,7 +39,18 @@ Resultado ao deletar:
 
 ![alt text](https://i.imgur.com/QKO8Zb9.png)
 
+## Tecnologias utilizadas
 
+✔️ Node.js
+✔️ Vue.js
+✔️ Vue-router
+✔️ Axios
+✔️ Api viacep com preenchimento automático dos campos
+✔️ Minha API para cadastro
+
+### Meu linkedin:
+
+https://www.linkedin.com/in/george-lobo-9506a2199/
 
 
 
