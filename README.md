@@ -8,7 +8,8 @@ Consiste em uma aplicação feita em Vue.Js e Node.js no back-end. O usuário fa
 
 Cadastro:
 
-https://i.imgur.com/nyZdjPY.png
+![alt text](https://i.imgur.com/nyZdjPY.png)
+
 
 
 
