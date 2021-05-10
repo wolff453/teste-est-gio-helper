@@ -10,6 +10,31 @@ Cadastro:
 
 ![alt text](https://i.imgur.com/nyZdjPY.png)
 
+Ao cadastrar, um modal é mostrado:
+
+![alt text](https://i.imgur.com/FcQpFhY.png)
+
+Se houver algum erro:
+
+![alt text](https://i.imgur.com/RrwxsC1.png)
+
+Listagem dos dados dinâmica:
+
+![alt text](https://i.imgur.com/0bzJZBi.png)
+
+Ao clicar no botão editar, você escreve o campo que você deseja estar deletando:
+
+![alt text](https://i.imgur.com/rFQfOQB.png)
+
+Resultado ao deletar: 
+
+![alt text](https://i.imgur.com/QKO8Zb9.png)
+
+
+
+
+
+
 
 
 
