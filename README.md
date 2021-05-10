@@ -6,11 +6,13 @@ Consiste em uma aplicação feita em Vue.Js e Node.js no back-end. O usuário fa
 
 Demonstração
 
-![alt text](https://i.imgur.com/e7101UY.gifv)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 
 No youtube:
 
-
+https://www.youtube.com/watch?v=E2xOx10sm00
 
 
 ## Telas
