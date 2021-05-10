@@ -50,6 +50,15 @@ Resultado ao deletar:
 ✔️ Api viacep com preenchimento automático dos campos
 ✔️ Minha API para cadastro
 
+## Alguns extras:
+
+ ✔️ Tratamento de rotas inexistentes
+ ![alt text](https://i.imgur.com/TfA3nsS.png)
+
+ ✔️ Mascára em campos
+ 
+ 
+
 ### Meu linkedin:
 
 https://www.linkedin.com/in/george-lobo-9506a2199/
