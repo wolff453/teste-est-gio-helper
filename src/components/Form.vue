@@ -69,7 +69,7 @@ export default {
            async insert(){
                  event.preventDefault()
                  let trim = document.querySelectorAll(".teste")
-                 trim.forEach(item => item.trim)
+                 trim.forEach(item => item.value.trim())
                  let modalError = document.querySelector(".modal")
                 let text = document.querySelector(".text")
                  let modal = document.querySelector(".modal-dad")
